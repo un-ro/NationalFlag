@@ -5,4 +5,12 @@
     <string name="creator_name">Unero Bhagaskara Ramadhan Marbun</string>
     <string name="creator_email">ramadhanbhg@gmail.com</string>
     <string name="splash_text">🏳 National Flag</string>
+    <string name="location">Location</string>
+    <string name="desc_flag">Nation Flag</string>
+    <string name="btn_link">🕸 Wikipedia</string>
+    <string name="tv_language">Language</string>
+    <string name="tv_anthem">Anthem</string>
+    <string name="tv_capital">Capital</string>
+    <string name="second_email">a1311648@bangkit.academy</string>
+    <string name="btn_repo">👨‍💻 Repo</string>
 </resources>
