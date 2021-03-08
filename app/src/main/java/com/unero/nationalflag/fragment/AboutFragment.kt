@@ -21,7 +21,7 @@ class AboutFragment : Fragment() {
         binding = DataBindingUtil.inflate(inflater, R.layout.fragment_about, container, false)
 
         binding.btnRepo.setOnClickListener {
-            val intent = Intent(Intent.ACTION_VIEW, Uri.parse("http://github.com/un-ro"))
+            val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/un-ro/NationalFlag"))
             startActivity(intent)
         }
 
