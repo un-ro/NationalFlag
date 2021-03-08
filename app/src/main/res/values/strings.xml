@@ -2,4 +2,7 @@
     <string name="app_name">National Flag</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="creator_name">Unero Bhagaskara Ramadhan Marbun</string>
+    <string name="creator_email">ramadhanbhg@gmail.com</string>
+    <string name="splash_text">🏳 National Flag</string>
 </resources>
